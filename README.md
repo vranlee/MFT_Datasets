@@ -5,11 +5,12 @@ The resources of MFT series datasets.
 <img src="assets/MFT_samples.png" width="900"/>
 </div>
 
-Contact: vranlee@cau.edu.cn. Any questions or discussion are welcome!
+Contact: vranlee@cau.edu.cn and weiranli@u.nus.edu. Any questions or discussion are welcome!
 
 -----
 
 ## Updates
++ [2025.02.27] We update the BrackishMOT-M4FT dataset which is utilized in M^4FT.
 + [2024.07.23] Thanks for your attention! We have initialized this repo, and 4 clips of the MFT_DATASET (VER.24) is released now.
 
 ## Baseline Performance
@@ -30,10 +31,12 @@ OC-SORT   | SDE | 1.01 |
 
 ## Download
 The datasets can be downloaded here:   
+
++  **(New)** **BrackishMOT-M4FT.zip [[GoogleDrive]](https://drive.google.com/drive/folders/1wZiD702m6Nyje58PzWBT5jEKm4Mt1E9B?usp=drive_link) [[BaiduYun: evbh]](https://pan.baidu.com/s/1t5Eg8honnc4UX4AT1NxNpw?pwd=evbh)**
 +  **MFT24_Samples.tar [[BaiduYun: 5ic5]](https://pan.baidu.com/s/1NDpHi9f1BK_qLpglpWjvxQ?pwd=5ic5)**
 +  **OptMFT_Samples.tar.gz: [[Onedrive]](https://1drv.ms/u/s!AiAYwd6-_n-fmmDxKUh81f5nylZv?e=61bjeO) [[BaiduYun: hfg1]](https://pan.baidu.com/s/1-R3kyzkm8iNNKD7AIombNg)**
 
 + Using the ***gen_data_path_sample.py*** to generate the training json files.
 
 ## Citation
-We are still preparing a large dataset for MFT (will be updated in this repo), which will include the video clips of this version. You can look up our other repos for MFT resources: [**\[P2PMFT\]**](https://github.com/vranlee/P2PMFT/) [**\[CMFTNet\]**](https://github.com/vranlee/CMFTNet/) [**\[TFMFT\]**](https://github.com/vranlee/TFMFT/).
+We are still preparing a large dataset for MFT (will be updated in this repo), which will include the video clips of this version. You can look up our other repos for MFT resources: [**\[M4FT\]**](https://github.com/vranlee/M-4-FT) [**\[P2PMFT\]**](https://github.com/vranlee/P2PMFT/) [**\[CMFTNet\]**](https://github.com/vranlee/CMFTNet/) [**\[TFMFT\]**](https://github.com/vranlee/TFMFT/).
